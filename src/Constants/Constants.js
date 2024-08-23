@@ -146,8 +146,8 @@ const professionalExperience = [
     {
         img: digiskillsLogo,
         name: "DigiSkills",
-        role: "COMMUNICATION AND SOFT SKILLS",
-        duration: "July 2022 - October 2022",
+        role: "Digital Marketing",
+        duration: "September 2021 - December 2021",
         certified: true
     },
 ]
