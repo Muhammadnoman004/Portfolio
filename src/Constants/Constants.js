@@ -14,20 +14,19 @@ import project1Img7 from '../assets/Project1/7.png'
 import project1Img8 from '../assets/Project1/8.png'
 
 // for project 2
-import project2Img1 from '../assets/Project2/1.png'
-import project2Img2 from '../assets/Project2/2.png'
-import project2Img3 from '../assets/Project2/3.png'
-import project2Img4 from '../assets/Project2/4.png'
-import project2Img5 from '../assets/Project2/5.png'
-import project2Img6 from '../assets/Project2/6.png'
-import project2Img7 from '../assets/Project2/7.png'
+import project2Img1 from '../assets/Project2/Blog 1.png'
+import project2Img2 from '../assets/Project2/Blog 2.png'
+import project2Img3 from '../assets/Project2/Blog 3.png'
+import project2Img4 from '../assets/Project2/Blog 4.png'
+import project2Img5 from '../assets/Project2/Blog 5.png'
+import project2Img6 from '../assets/Project2/Blog 6.png'
 
 // for project 3
-import project3Img1 from '../assets/Project3/1.png'
-import project3Img2 from '../assets/Project3/2.png'
-import project3Img3 from '../assets/Project3/3.png'
-import project3Img4 from '../assets/Project3/4.png'
-import project3Img5 from '../assets/Project3/5.png'
+import project3Img1 from '../assets/Project3/Site 1.png'
+import project3Img2 from '../assets/Project3/Site 2.png'
+import project3Img3 from '../assets/Project3/Site 3.png'
+import project3Img4 from '../assets/Project3/Site 4.png'
+import project3Img5 from '../assets/Project3/Site 5.png'
 
 // for project 4
 import project4Img1 from '../assets/Project4/1.png'
@@ -216,11 +215,10 @@ const portfolio = [
             project2Img4,
             project2Img5,
             project2Img6,
-            project2Img7,
         ],
-        title: "Dentist Website",
-        description: "I have created a dentist website using React and Firebase, where users can perform CRUD operations on patient data after logging in. The website also provides daily and monthly data views. Additionally, users can manage pre-received amounts of patients through CRUD operations.",
-        link: "https://react-dentist-website.vercel.app/"
+        title: "Blogging Website",
+        description: "I've developed an adaptive blog platform using React,js for smooth data handling with Firebase, prioritizing security to safeguard user information. The emphasis is on providing an accurate, secure, and user-centric blogging experience.",
+        link: "https://react-blogging-website-orpin.vercel.app/"
     },
     {
         images: [
@@ -228,11 +226,11 @@ const portfolio = [
             project3Img2,
             project3Img3,
             project3Img4,
-            project3Img5,
+            project3Img5
         ],
-        title: "Blogging Website",
-        description: "I've built a responsive blog website with JavaScript for seamless data operations using Firebase. Security is a top priority, leveraging Firebase features to protect user data. The focus is on delivering a precise, secure, and user-friendly blogging experience.",
-        link: "https://blogging-website-huzaifa.vercel.app/"
+        title: "My Site",
+        description: "This website showcases a My Site homepage. The platform emphasizes the site offerings, which encompass innovative design, performance enhancement, and complete customization. The site also includes feedback from delighted clients and a prompt to download the My Site application.",
+        link: "https://next-pwa-pied-two.vercel.app/"
     },
     {
         images: [
