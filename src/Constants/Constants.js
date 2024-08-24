@@ -4,14 +4,23 @@ import { RiReactjsLine } from "react-icons/ri";
 import { TbBrandNextjs } from "react-icons/tb";
 
 // for project 1
-import project1Img1 from '../assets/Project1/1.png'
-import project1Img2 from '../assets/Project1/2.png'
-import project1Img3 from '../assets/Project1/3.png'
-import project1Img4 from '../assets/Project1/4.png'
-import project1Img5 from '../assets/Project1/5.png'
-import project1Img6 from '../assets/Project1/6.png'
-import project1Img7 from '../assets/Project1/7.png'
-import project1Img8 from '../assets/Project1/8.png'
+import project1Img1 from '../assets/Project1/login.png'
+import project1Img2 from '../assets/Project1/verification.png'
+import project1Img3 from '../assets/Project1/student 1.png'
+import project1Img4 from '../assets/Project1/student.png'
+import project1Img5 from '../assets/Project1/student 2.png'
+import project1Img6 from '../assets/Project1/student 3.png'
+import project1Img7 from '../assets/Project1/student 4.png'
+import project1Img8 from '../assets/Project1/student 5.png'
+import project1Img9 from '../assets/Project1/student 6.png'
+import project1Img10 from '../assets/Project1/trainer 1.png'
+import project1Img11 from '../assets/Project1/trainer 2.png'
+import project1Img12 from '../assets/Project1/trainer 3.png'
+import project1Img13 from '../assets/Project1/trainer 4.png'
+import project1Img14 from '../assets/Project1/admin 1.png'
+import project1Img15 from '../assets/Project1/admin 2.png'
+import project1Img16 from '../assets/Project1/admin 3.png'
+import project1Img17 from '../assets/Project1/admin 4.png'
 
 // for project 2
 import project2Img1 from '../assets/Project2/Blog 1.png'
@@ -202,10 +211,19 @@ const portfolio = [
             project1Img6,
             project1Img7,
             project1Img8,
+            project1Img9,
+            project1Img10,
+            project1Img11,
+            project1Img12,
+            project1Img13,
+            project1Img14,
+            project1Img15,
+            project1Img16,
+            project1Img17,
         ],
-        title: "RestaurantHub",
-        description: "Streamlined restaurant website with easy navigation. Explore restaurants and menus, sign in to securely add items to your cart. Admins enjoy intuitive management, adding restaurants, and CRUD operations on menu items. Elevate your dining experience with RestaurantHub.",
-        link: "https://restauranthub.vercel.app/"
+        title: "Assignment Submission Portal",
+        description: "The Assignment Submission Portal simplifies the management of classes, assignments, and profiles for admins, trainers, and students. It includes key features like user management, class creation, and secure assignment submissions. Developed with a robust tech stack, it ensures a secure and efficient experience.",
+        link: "https://assignment-submission-portal.vercel.app/"
     },
     {
         images: [
