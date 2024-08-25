@@ -280,15 +280,15 @@ const contact = {
 const socialLinks = [
     {
         icon: <FaFacebookF />,
-        link: "https://www.facebook.com/profile.php?id=100090157283290"
+        link: "https://www.facebook.com/profile.php?id=100031087657305"
     },
     {
         icon: <FaGithub />,
-        link: "https://github.com/Huzaifa-Khan-Official"
+        link: "https://github.com/Muhammadnoman004"
     },
     {
         icon: <FaLinkedinIn />,
-        link: "https://www.linkedin.com/in/huzaifa-khan-officia/"
+        link: "https://www.linkedin.com/in/muhammad-noman-b081b52a9/"
     }
 ]
 
