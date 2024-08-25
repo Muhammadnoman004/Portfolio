@@ -29,8 +29,8 @@ export default function Footer() {
                 <div className="col-sm-8 copyrightDiv">
                     <h6>
                         Made with love by &nbsp;
-                        <a href="https://github.com/Huzaifa-Khan-Official" target='_blank'>
-                            Huzaifa Khan
+                        <a href="https://github.com/Muhammadnoman004" target='_blank'>
+                            Muhammad Noman
                         </a>
                     </h6>
                     <p>© 2024 - All Rights Reserved</p>

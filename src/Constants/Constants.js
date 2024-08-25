@@ -38,17 +38,14 @@ import project3Img4 from '../assets/Project3/Site 4.png'
 import project3Img5 from '../assets/Project3/Site 5.png'
 
 // for project 4
-import project4Img1 from '../assets/Project4/1.png'
-import project4Img2 from '../assets/Project4/2.png'
-import project4Img3 from '../assets/Project4/3.png'
-import project4Img4 from '../assets/Project4/4.png'
+import project4Img1 from '../assets/Project4/quiz 1.png'
+import project4Img2 from '../assets/Project4/quiz 2.png'
+import project4Img3 from '../assets/Project4/quiz 3.png'
 
 // for project 5
-import project5Img1 from '../assets/Project5/1.png'
-import project5Img2 from '../assets/Project5/2.png'
-import project5Img3 from '../assets/Project5/3.png'
-import project5Img4 from '../assets/Project5/4.png'
-import project5Img5 from '../assets/Project5/5.png'
+import project5Img1 from '../assets/Project5/smit 1.png'
+import project5Img2 from '../assets/Project5/smit 2.png'
+import project5Img3 from '../assets/Project5/smit 3.png'
 
 // socialIcons
 import { FaFacebookF } from "react-icons/fa";
@@ -255,23 +252,20 @@ const portfolio = [
             project4Img1,
             project4Img2,
             project4Img3,
-            project4Img4,
         ],
-        title: "Todo Website",
-        description: "I have developed a fully responsive todo website that efficiently stores data for each user, and authentication is implemented using Firebase, ensuring secure access to user accounts. Users can perform CRUD operations on todos within the website, enhancing productivity within the platform.",
-        link: "https://firebase-todo-huzaifa.vercel.app/"
+        title: "Quiz App",
+        description: "I have developed a quiz app using React.js that generates random questions and tracks your score in real-time. The app not only provides immediate feedback on your performance but also determines whether you've passed or failed, offering an engaging and interactive quiz experience.",
+        link: "https://react-quiz-ivory.vercel.app/"
     },
     {
         images: [
             project5Img1,
             project5Img2,
             project5Img3,
-            project5Img4,
-            project5Img5,
         ],
-        title: "Web Agency",
-        description: "This website depicts a web agency's homepage. The website highlights the agency’s services, which include refreshing design, speed optimization, and full customization. The website also features testimonials from satisfied clients and a call to action to download the agency’s app.",
-        link: "https://next-agency-web.vercel.app/"
+        title: "Saylani Enrollment Form",
+        description: "I have crafted a user-friendly and responsive enrolment form that mirrors the functionality of the Saylani form. This project was a fantastic opportunity to enhance my skills in HTML, CSS, and JavaScript, as well as integrate Firebase Firestore for seamless data storage.",
+        link: "https://muhammadnoman004.github.io/SMIT-Form/"
     },
 ]
 
