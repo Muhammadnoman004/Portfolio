@@ -5,12 +5,12 @@ import { getFirestore } from "firebase/firestore";
 
 
 const firebaseConfig = {
-    apiKey: "AIzaSyAedqKe1ryAEcZfFMUTHA_MLqlKXcp9jV8",
-    authDomain: "huzaifa-reacfolio.firebaseapp.com",
-    projectId: "huzaifa-reacfolio",
-    storageBucket: "huzaifa-reacfolio.appspot.com",
-    messagingSenderId: "286901249528",
-    appId: "1:286901249528:web:cd7ce2d719f9c16d00a20d",
+    apiKey: "AIzaSyDHryaqGxfFXNCkFFhZagTK_2-ZFvJe668",
+    authDomain: "portfolio-a2719.firebaseapp.com",
+    projectId: "portfolio-a2719",
+    storageBucket: "portfolio-a2719.appspot.com",
+    messagingSenderId: "667117025117",
+    appId: "1:667117025117:web:c1c3f85c7e15a330ce1ab4",
     measurementId: "G-LMME11M7TW"
 };
 

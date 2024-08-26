@@ -271,9 +271,9 @@ const portfolio = [
 
 // contact
 const contact = {
-    number: "+923492089094",
-    email: "huzaifakhanofficial01@gmail.com",
-    location: "Metroville S.I.T.E. Karachi."
+    number: "+92 3122973953",
+    email: "nomanshamim2004@gmail.com",
+    location: "Mominabad Town Karachi."
 }
 
 // socialLinks

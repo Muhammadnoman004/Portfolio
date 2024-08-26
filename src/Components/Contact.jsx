@@ -15,7 +15,8 @@ export default function Contact() {
     const {
         handleSubmit,
         register,
-        formState: { errors }
+        formState: { errors },
+        reset
     } = useForm()
 
     const onSubmit = async (data) => {
@@ -25,6 +26,7 @@ export default function Contact() {
             await addDoc(collection(db, "data"), data);
             setIsLoading(false)
             toast.success("Message submit successfully!")
+            reset()
         } catch (e) {
             setIsLoading(false)
             toast.error("Something went wrong. Please try later!")
