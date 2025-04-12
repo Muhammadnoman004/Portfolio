@@ -108,12 +108,12 @@ const skillsIcons = [
 
 // education
 const education = [
-    // {
-    //     img: universityLogo,
-    //     instituteName: "University of Karachi",
-    //     degreeName: "Bachelor of Computer Science",
-    //     duration: "January 2024 - December 2027"
-    // },
+    {
+        img: universityLogo,
+        instituteName: "Virtual University of Pakistan",
+        degreeName: "Bachelor of Computer Science",
+        duration: "September 2024 - August 2028"
+    },
     {
         img: collegeLogo,
         instituteName: "Jinnah Govt College Nazimabad",
@@ -129,7 +129,7 @@ const education = [
 ]
 
 // resumeLink
-const resume = "https://drive.google.com/file/d/1d7eToKJ0uoIf2uybdvCNyv2pvhj_-HCf/view?usp=sharing";
+const resume = "https://drive.google.com/file/d/13z01i7GPGtspQPqqFQeEDeB2GS4x_coD/view?usp=sharing";
 
 // professionalExperience
 const professionalExperience = [
